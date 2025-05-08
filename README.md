@@ -20,7 +20,7 @@ Muz GitHub Analyzer is a web-based dashboard built with Next.js 14, React 18, an
 
 > Sorry for the lagging in the demo video! The recording software caused some frame drops.
 
-<video src="public/demo.mp4" controls width="600" muted playbackRate="1.5"></video>
+<video src="public/output.mp4" controls width="600" muted playbackRate="1.5"></video>
 
 > **Note**: This project is heavily inspired by and adapted from [dandi](https://github.com/emarco177/dandi). Many thanks to the original author for their excellent work.
 
