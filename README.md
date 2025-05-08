@@ -16,7 +16,11 @@
 
 Muz GitHub Analyzer is a web-based dashboard built with Next.js 14, React 18, and TypeScript. It offers secure authentication, API key management, and analytics for GitHub repositories. Built on Supabase with Tailwind CSS and shadcn/ui, it provides a modern, responsive interface.
 
-🎬 Demo clip coming soon! We'll showcase the key features and user experience.
+🎬 Demo clip! We'll showcase the key features and user experience. (Muted, 1.5x speed)
+
+> Sorry for the lagging in the demo video! The recording software caused some frame drops.
+
+<video src="public/demo.mp4" controls width="600" muted playbackRate="1.5"></video>
 
 > **Note**: This project is heavily inspired by and adapted from [dandi](https://github.com/emarco177/dandi). Many thanks to the original author for their excellent work.
 
